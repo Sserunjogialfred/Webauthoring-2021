@@ -1,0 +1,164 @@
+*, html, body
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-div
+{
+    display: flex;
+    border: rgb(0, 153, 255) solid 1px;
+    justify-content: space-between;
+}
+
+
+
+
+.First-div
+{
+    flex-basis: 30%;
+    border: white solid;
+    box-shadow: 7px rgb(0, 153, 255) 5px 5px;
+    text-align: left;
+    background-image: url(./images/Logotwinter.png);
+    background-size: 100% 110%;
+    padding-left: 150px;
+}
+ 
+.links a
+{
+    color: white;
+    text-decoration: none;
+    padding-top: 8px;
+    font-size:30px;
+    font-weight: bolder;
+}
+
+.links a:hover
+{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+}
+.Second-div
+{   
+    flex-basis:20%;
+    border: white solid;.
+
+}
+
+.Third-div
+{
+    flex-basis: 30%;
+    border: white solid 5px;
+    padding-right: 30px;
+    margin-right: 30px;
+}
+
+.Box-model1
+{
+    margin-right: 0px;
+    padding: 0px;
+}
+
+.Blue-button1
+{
+    
+    border: rgb(0, 153, 255) solid;
+    background-color:white);
+    padding: 10px;
+    margin-right: 0px;
+    text-align: center;
+    border-radius: 40%;
+    font-weight:bolder;
+    color:rgb(0, 153, 255);
+    font-size: 15px;
+
+}
+
+.Black-button1
+{
+    
+    border: gray solid;
+    background-color:white);
+    padding: 10px 20px 20px 20px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 0%;
+    color: gray;
+    font-weight:bolder;
+
+}
+.Black-button2
+{
+    
+    border: gray solid;
+    background-color:white);
+    padding: 10px 20px 20px 20px;
+    text-align: center;
+    font-size: 15px;
+    border-radius:0%;
+    color: gray;
+    font-weight:bolder;
+
+
+}
+
+.Black-button3
+{
+    
+    border: white solid;
+    background-color:white);
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    border-radius:0%;
+    color: rgb(0, 153, 255);
+    font-weight:bolder;
+    margin-left:100px;
+
+}
+
+
+
+
+.img1
+{
+padding-left: 30px;
+}
+
+
+.Blue-button2
+{
+    border:rgb(0, 153, 255) solid 1px;
+    background-color: rgb(0, 153, 255) ;
+    padding: 10px 150px 10px 150px;
+    border-radius: 28%;
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.White-button
+{
+    border:rgb(0, 153, 255) solid ;
+    background-color: white;
+    padding: 10px 150px 10px 150px;
+    border-radius: 28%;
+    margin-left: 10px;
+    color: rgb(0, 153, 255) ;
+    font-weight: bold;
+    font-size: 20px;
+}
+}
+
+.Box-model2
+{
+border: rgb(0, 153, 255) solid 8px;
+
+}
+
+

@@ -1,0 +1,104 @@
+
+
+  /*  h1{
+        color:red;
+        text-decoration: green underline;
+    } */
+
+.heading1
+{
+    color:red;
+    font-size:xx-large;
+}
+.first
+{
+    text-decoration: seagreen underline;
+}
+
+#logo
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#shape
+{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.main-div
+{
+    border: red solid 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.First-div
+{
+    border: green solid 5px;
+    flex-basis: 8%;
+    box-shadow: 5px 5px palevioletred;
+}
+
+.Second-div
+{
+    border:blue solid 5px;
+    flex-basis: 20%;
+}
+
+.Third-div
+{
+    border: yellow solid 5px;
+    flex-basis: 50%;
+}
+
+.links
+{
+    /*margin: auto;*/
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 8px;
+}
+
+.links li
+{
+    padding-right: 20px;
+}
+.links a
+{
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.links a:hover
+{
+    background-color: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+
+.Red-button
+{
+background-color: darkred;
+padding: 10px;
+}
+
+.Green-button
+{
+background-color: green;
+padding: 10px;
+}
+
+.Box-model
+{
+background-color: black solid 3px;
+
+}
